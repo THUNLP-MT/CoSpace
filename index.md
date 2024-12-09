@@ -13,7 +13,7 @@
     <span style="font-size: larger;">Ziyue Wang<sup>1*</sup></span>,
     <span style="font-size: larger;">Can Zhang<sup>3</sup></span>,
     <span style="font-size: larger;">Peng Li<sup>2†</sup></span>,
-    <span style="font-size: larger;">Yang Liu<sup>1,2</sup></span>
+    <span style="font-size: larger;">Yang Liu<sup>1,2†</sup></span>
 </div>
 
 <br>
