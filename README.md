@@ -6,7 +6,7 @@
 
 ### Installation
 
-All the images for **CoSpace** can be downloaded from [Hugging Face](https://huggingface.co/datasets/StephenZhu/CoSpace/). After successfully downloading the images, please keep the directory as follows:
+All the images for **CoSpace** can be downloaded from [Hugging Face](https://huggingface.co/datasets/StephenZhu/CoSpace/). After successfully downloading the images, please rename `panorama_images` into `images` and keep the directory as follows:
 
 ```bash
 src/
@@ -16,11 +16,11 @@ src/
 │   │   ├── object.jsonl
 │   │   └── ...
 │   │
-│   └── images/
-│       ├── panorama_images/
-│       ├── habitat_scenes/
-│       ├── frames_30/
-│       └── frames_45/
+│   ├── images/
+│   ├── habitat_scenes/
+│   ├── frames_30/
+│   └── frames_30/
+│
 │
 ├── pipeline/
 │   ├── scripts/
